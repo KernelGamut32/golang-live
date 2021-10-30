@@ -125,13 +125,13 @@ Fun–Programming with Go should be fun!
 
 1. Download from https://golang.org/dl
 
-2. Installer should put `go` in your `$PATH` (you may need to restart any open terminal sessions for the change to take effect)
+2. Run installer (or follow installation instructions for your OS)
 
-3. Create workspace dir `$HOME/go` (or set `$GOPATH` to use a different location)
+3. Installer should put `go` in your `$PATH` (you may need to restart any open terminal sessions for the change to take effect)
 
 4. Create a new folder for your lab work during the course
 
-5. Open that folder in VS code
+5. Open that folder in your IDE (e.g., Visual Studio Code)
 
 6. From the root of this folder, run `go mod init github.com/<your handle>/golab` - this will create a new go.mod file in folder
 
@@ -141,7 +141,7 @@ Fun–Programming with Go should be fun!
 
 - click the `Run` button above and on any slide which has that button
 
-* Running Interactively
+* Running Slides Interactively
 Clone GitHub repo using 
 
     git clone https://github.com/KernelGamut32/golang-live.git
